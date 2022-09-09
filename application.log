@@ -1,0 +1,46 @@
+2022-09-02 21:43:15,037  INFO [main] LoginTest:30 - ****************************** Starting test cases execution  *****************************************
+2022-09-02 21:43:18,402  INFO [main] LoginTest:34 - launching chrome broswer
+2022-09-02 21:43:21,779  INFO [main] LoginTest:42 - entering application URL
+2022-09-02 21:43:21,779  WARN [main] LoginTest:43 - Hey this just a warning message
+2022-09-02 21:43:21,779 FATAL [main] LoginTest:44 - hey this is just fatal error message
+2022-09-02 21:43:21,781 DEBUG [main] LoginTest:45 - this is debug message
+2022-09-02 21:43:21,784  INFO [main] LoginTest:49 - ****************************** starting test case *****************************************
+2022-09-02 21:43:21,786  INFO [main] LoginTest:50 - ****************************** fbTitleTest *****************************************
+2022-09-02 21:43:21,796  INFO [main] LoginTest:53 - login page title is--->Facebook – log in or sign up
+2022-09-02 21:43:21,816  INFO [main] LoginTest:56 - ****************************** ending test case *****************************************
+2022-09-02 21:43:21,816  INFO [main] LoginTest:57 - ****************************** fbTitleTest *****************************************
+2022-09-02 21:43:22,595  INFO [main] LoginTest:76 - ****************************** Browser is closed *****************************************
+2022-09-02 21:43:22,602  INFO [main] LoginTest:30 - ****************************** Starting test cases execution  *****************************************
+2022-09-02 21:43:23,974  INFO [main] LoginTest:34 - launching chrome broswer
+2022-09-02 21:43:26,467  INFO [main] LoginTest:42 - entering application URL
+2022-09-02 21:43:26,468  WARN [main] LoginTest:43 - Hey this just a warning message
+2022-09-02 21:43:26,468 FATAL [main] LoginTest:44 - hey this is just fatal error message
+2022-09-02 21:43:26,469 DEBUG [main] LoginTest:45 - this is debug message
+2022-09-02 21:43:26,469  INFO [main] LoginTest:63 - ****************************** starting test case *****************************************
+2022-09-02 21:43:26,470  INFO [main] LoginTest:64 - ****************************** fbogoTest *****************************************
+2022-09-02 21:43:26,534  INFO [main] LoginTest:69 - ****************************** ending test case *****************************************
+2022-09-02 21:43:26,535  INFO [main] LoginTest:70 - ****************************** fbLogoTest *****************************************
+2022-09-02 21:43:27,233  INFO [main] LoginTest:76 - ****************************** Browser is closed *****************************************
+2022-09-03 08:12:39,637  INFO [main] LoginTest:30 - ****************************** Starting test cases execution  *****************************************
+2022-09-03 08:12:43,046  INFO [main] LoginTest:34 - launching chrome broswer
+2022-09-03 08:12:44,477  INFO [main] LoginTest:42 - entering application URL
+2022-09-03 08:12:44,478  WARN [main] LoginTest:43 - Hey this just a warning message
+2022-09-03 08:12:44,478 FATAL [main] LoginTest:44 - hey this is just fatal error message
+2022-09-03 08:12:44,478 DEBUG [main] LoginTest:45 - this is debug message
+2022-09-03 08:12:44,481  INFO [main] LoginTest:49 - ****************************** starting test case *****************************************
+2022-09-03 08:12:44,481  INFO [main] LoginTest:50 - ****************************** fbTitleTest *****************************************
+2022-09-03 08:12:44,493  INFO [main] LoginTest:53 - login page title is--->Facebook – log in or sign up
+2022-09-03 08:12:44,514  INFO [main] LoginTest:56 - ****************************** ending test case *****************************************
+2022-09-03 08:12:44,524  INFO [main] LoginTest:57 - ****************************** fbTitleTest *****************************************
+2022-09-03 08:12:45,458  INFO [main] LoginTest:76 - ****************************** Browser is closed *****************************************
+2022-09-03 08:12:45,468  INFO [main] LoginTest:30 - ****************************** Starting test cases execution  *****************************************
+2022-09-03 08:12:47,009  INFO [main] LoginTest:34 - launching chrome broswer
+2022-09-03 08:12:48,578  INFO [main] LoginTest:42 - entering application URL
+2022-09-03 08:12:48,578  WARN [main] LoginTest:43 - Hey this just a warning message
+2022-09-03 08:12:48,579 FATAL [main] LoginTest:44 - hey this is just fatal error message
+2022-09-03 08:12:48,579 DEBUG [main] LoginTest:45 - this is debug message
+2022-09-03 08:12:48,581  INFO [main] LoginTest:63 - ****************************** starting test case *****************************************
+2022-09-03 08:12:48,582  INFO [main] LoginTest:64 - ****************************** fbogoTest *****************************************
+2022-09-03 08:12:48,622  INFO [main] LoginTest:69 - ****************************** ending test case *****************************************
+2022-09-03 08:12:48,623  INFO [main] LoginTest:70 - ****************************** fbLogoTest *****************************************
+2022-09-03 08:12:49,356  INFO [main] LoginTest:76 - ****************************** Browser is closed *****************************************
